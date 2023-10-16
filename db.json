@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "name": "dsadas",
+      "complated": true,
+      "boardId": 1
+    },
+    {
+      "id": 2,
+      "name": "Akmal 2",
+      "complated": false,
+      "boardId": 2
+    },
+    {
+      "id": 3,
+      "name": "test 4",
+      "complated": true,
+      "boardId": 1
+    },
+    {
+      "id": 4,
+      "name": "das",
+      "complated": false,
+      "boardId": 3
+    },
+    {
+      "id": 5,
+      "name": "dasda",
+      "complated": true,
+      "boardId": 5
+    },
+    {
+      "id": 6,
+      "name": "test dasda 1",
+      "complated": true,
+      "boardId": 5
+    },
+    {
+      "id": 7,
+      "name": "dsa",
+      "complated": false,
+      "boardId": 6
+    },
+    {
+      "id": 8,
+      "name": "test 4 1",
+      "complated": true,
+      "boardId": 6
+    },
+    {
+      "id": 9,
+      "name": "dassa",
+      "complated": true,
+      "boardId": 7
+    },
+    {
+      "name": "salom",
+      "complated": false,
+      "boardId": 8,
+      "id": 10
+    }
+  ],
+  "boards": [
+    {
+      "id": 1,
+      "name": "Board 1"
+    },
+    {
+      "id": 2,
+      "name": "Board 2"
+    },
+    {
+      "id": 3,
+      "name": "Board 3"
+    },
+    {
+      "name": "dasda",
+      "id": 5
+    },
+    {
+      "name": "test board",
+      "id": 6
+    },
+    {
+      "name": "dadasa",
+      "id": 7
+    },
+    {
+      "name": "d",
+      "id": 8
+    }
+  ]
+}
